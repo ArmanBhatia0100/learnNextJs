@@ -1,6 +1,10 @@
 {
   "dependencies": {
+    "@vercel/postgres": "^0.9.0",
     "pnpm": "^9.8.0",
     "vercel": "^37.1.1"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2"
   }
 }
